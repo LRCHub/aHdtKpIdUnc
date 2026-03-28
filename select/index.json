@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Airplane Mode",
+  "base_artist": "SALU",
+  "createdAt": "2026-03-28T14:51:07.858789Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Subconscious Pilsen Relics, Pt. 2 [CODENAME_AIRPLANE MODE]",
+      "artist": "Fire-Toolz",
+      "has_synced": false,
+      "path": "select/01_Subconscious_Pilsen_Relics,_Pt._2_[CODENAME_AIRPLANE_MODE]_Fire-Toolz.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Airplane Mode",
+      "artist": "fromis_9",
+      "has_synced": true,
+      "path": "select/02_Airplane_Mode_fromis_9.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Airplane mode",
+      "artist": "Younha",
+      "has_synced": false,
+      "path": "select/03_Airplane_mode_Younha.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Airplane Mode",
+      "artist": "Fireboy DML",
+      "has_synced": true,
+      "path": "select/04_Airplane_Mode_Fireboy_DML.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Airplane Mode",
+      "artist": "Flobots",
+      "has_synced": true,
+      "path": "select/05_Airplane_Mode_Flobots.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Airplane Mode (Album Version)",
+      "artist": "Flobots",
+      "has_synced": true,
+      "path": "select/06_Airplane_Mode_(Album_Version)_Flobots.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Airplane Mode",
+      "artist": "GEPPS",
+      "has_synced": true,
+      "path": "select/07_Airplane_Mode_GEPPS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Airplane Mode",
+      "artist": "Hayd",
+      "has_synced": true,
+      "path": "select/08_Airplane_Mode_Hayd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Airplane Mode",
+      "artist": "Limbo",
+      "has_synced": true,
+      "path": "select/09_Airplane_Mode_Limbo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Airplane Mode",
+      "artist": "Limbo",
+      "has_synced": true,
+      "path": "select/10_Airplane_Mode_Limbo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Airplane Mode (Original Mix)",
+      "artist": "Hayd",
+      "has_synced": true,
+      "path": "select/11_Airplane_Mode_(Original_Mix)_Hayd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Airplane Mode",
+      "artist": "프로미스나인",
+      "has_synced": true,
+      "path": "select/12_Airplane_Mode_프로미스나인.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Airplane Mode",
+      "artist": "Clara Benin",
+      "has_synced": true,
+      "path": "select/13_Airplane_Mode_Clara_Benin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Airplane Mode",
+      "artist": "¡MAYDAY!",
+      "has_synced": false,
+      "path": "select/14_Airplane_Mode_¡MAYDAY!.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Airplane Mode (feat. NSG)",
+      "artist": "Nines feat. NSG",
+      "has_synced": true,
+      "path": "select/15_Airplane_Mode_(feat._NSG)_Nines_feat._NSG.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Airplane Mode (feat. NSG)",
+      "artist": "Nines",
+      "has_synced": true,
+      "path": "select/16_Airplane_Mode_(feat._NSG)_Nines.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Airplane Mode",
+      "artist": "Ty Dolla $ign",
+      "has_synced": true,
+      "path": "select/17_Airplane_Mode_Ty_Dolla_$ign.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Airplane Mode (feat. AKLO)",
+      "artist": "SALU",
+      "has_synced": false,
+      "path": "select/pl_01_Airplane_Mode_(feat._AKLO)_SALU.txt"
+    }
+  ]
+}
